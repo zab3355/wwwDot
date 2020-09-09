@@ -1,0 +1,56 @@
+h1
+{
+text-align:center;
+}
+#after{
+  display:none;
+  min-height:200px;
+  margin:auto;
+  max-width:500px;
+  text-align:center;
+  border-radius:50px;
+  }
+#number_correct
+{
+   padding-top:5%;
+   font-size:120%;  
+}
+#review_correct
+{
+font-weight: bold;
+font-size:150%;
+
+}
+li
+{
+  margin-top:1%;
+}
+
+#button
+{
+  margin-left:5%;
+  border-radius:10px;
+  width:5vw;
+  height:4vh;
+}
+#button:hover, #btn:hover
+{
+  background-color:lightblue;
+}
+#button:active, #btn:active
+{
+background-color:grey;
+}
+#btn
+{
+   float:left;
+  margin-left:20%;
+  border-radius:10px;
+  width:100px;
+  height:40px;
+  display:inline;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
